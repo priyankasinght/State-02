@@ -1,0 +1,19 @@
+.center-div {
+ display: flex;
+}
+
+.left-side{
+  width: 50%;
+  height: 100vh;
+  padding: 20px;
+  font-size: 2rem;
+  outline: none;
+}
+
+.right-side {
+    width: 50%;
+    height: 100vh;
+    padding: 20px;
+    outline: none;
+    background-color: aliceblue;
+  }
